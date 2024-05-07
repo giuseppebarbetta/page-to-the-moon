@@ -2,6 +2,9 @@
   <h1>To the moon</h1>
   <p>Este é um projeto de uma landing page para um projeto fictíco, desenvolvido com: HTML e CSS. Ele inclui um input para inscrição na newsletter e responsividade em qualquer dispositivo.</p><br>
 
+  <h2>Prévia: </h2>
+  <img src='https://github.com/giuseppebarbetta/page-to-the-moon/assets/148505073/aba67bf8-cf90-4b36-aedc-ea26caa26c86' alt='previa interface app' width='530px' />
+
   <h2>Funcionalidades</h2>
   <ul>
       <li><strong>Cadastro Newsletter:</strong> Os usuários podem inserir seu email e se cadastrar na newsletter.</li>
